@@ -1,4 +1,4 @@
-I had trouble in finding any detailed documentation for the Rd-03d a chance search for one of the tools led me to the LD2450 documentation which was far more complete. For example, the description of the message decoding for the Rd-03d in the AI Thinker documention is incorrect. The HL2450 documentation has the correct method.
+I had trouble in finding any detailed documentation for the Rd-03d a chance search for one of the tools led me to the LD2450 documentation which was far more complete. For example, the description of the message decoding for the Rd-03d in the AI Thinker documentation is incorrect. The HL2450 documentation has the correct method.
 
 Please note that none of this has been tested in full. Some of the HL2450 features may not work on the Rd-03d.
 
